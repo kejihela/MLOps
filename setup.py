@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.4"
 REPO_NAME = "MLOps"
 PKG_NAME= "Automate_DB"
-AUTHOR_USER_NAME = "Keji_Adebayo"
+AUTHOR_USER_NAME = "kejihela"
 AUTHOR_EMAIL = "Gleebayour@gmail.com"
 
 setup(
